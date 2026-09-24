@@ -12,12 +12,10 @@ I'm also into competitive programming — **Codeforces Specialist with a 1426 ma
 
 Outside coding, I'm the **Head of Research and Content at TEDxBITSGoa**.
 
-## Fun facts
+## A little about me
 
-- 🎓 BITS Pilani, Goa
-- 💻 Full-stack & AI enthusiast
-- 🤖 Learning ML & Neural Networks
-- 🏆 Codeforces Specialist · 1426 max
-- 🎯 1000+ coding problems
-- 🎤 TEDx content & speechwriting
-- 🚀 Always building something
+- 📸 I love photography and capturing random moments
+- 🌱 Always curious and trying to learn something new
+- 🎧 Music, late-night conversations, and good company
+- 🗺️ I enjoy exploring new places and experiences
+- ☕ Fueled by coffee and curiosity
