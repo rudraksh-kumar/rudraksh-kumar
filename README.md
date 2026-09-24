@@ -2,25 +2,22 @@
 
 I'm Rudraksh, a Mathematics and Computing undergraduate at BITS Pilani, Goa.
 
-I like building things and solving problems — whether that's a web app, an AI-powered tool, or a tricky DSA problem.
+I like building things and solving problems — from full-stack apps to AI-powered tools and DSA.
 
 My main tech stack is C++, Java, Python, JavaScript, React, Node.js, Express, and PostgreSQL.
 
-I've built full-stack applications, AI-powered portfolio tools, and a few things that started as random ideas and somehow turned into projects.
+I'm currently exploring **Machine Learning, Neural Networks, and AI**, while continuing to build full-stack projects.
 
-Currently, I'm working on **Portfolio Architect**, a personalized portfolio generator with a visual editor and conversational customization.
+I'm also into competitive programming — **Codeforces Specialist with a 1426 max rating**, with **1000+ problems solved** across coding platforms.
 
-I'm also into competitive programming — **Codeforces Specialist with a 1426 max rating**, and I've solved **1000+ problems across LeetCode, Codeforces, and other coding platforms**.
-
-Outside of coding, I'm the **Head of Research and Content at TEDxBITSGoa**, where I work on writing and refining talks.
+Outside coding, I'm the **Head of Research and Content at TEDxBITSGoa**.
 
 ## Fun facts
 
 - 🎓 BITS Pilani, Goa
-- 💻 I enjoy building full-stack applications
-- 🧠 Competitive programming is my thing
-- 🏆 Codeforces Specialist · 1426 max rating
-- 🎯 1000+ coding problems solved
+- 💻 Full-stack & AI enthusiast
+- 🤖 Learning ML & Neural Networks
+- 🏆 Codeforces Specialist · 1426 max
+- 🎯 1000+ coding problems
 - 🎤 TEDx content & speechwriting
-- 🚀 Always working on something new
-- ☕ Probably debugging something right now
+- 🚀 Always building something
