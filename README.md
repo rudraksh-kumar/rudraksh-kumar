@@ -34,14 +34,8 @@
 </p>
 
 ### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/rudraksh-kumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=rudraksh-kumar&show_icons=true&theme=radium&hide_border=true" alt="Rudraksh's GitHub Stats" />
-  </a>
-  <a href="https://github.com/rudraksh-kumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh-kumar&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudraksh-kumar&show_icons=true&theme=radium&hide_border=true)](https://github.com/rudraksh-kumar)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudraksh-kumar&layout=compact&theme=radium&hide_border=true)](https://github.com/rudraksh-kumar)
 
 ### ⚡ A Little About Me (Beyond Code)
 - 📸 Love photography and capturing random moments.
