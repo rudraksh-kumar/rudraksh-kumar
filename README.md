@@ -5,10 +5,15 @@
 ---
 
 - 🎓 Pursuing **Mathematics and Computing** at BITS Pilani, with a **Minor in Data Science**.
+
 - 💻 I enjoy **building things, solving problems, and learning something new every day**.
+
 - 🏆 **Codeforces Specialist (1426)** | **1000+ DSA problems solved**.
+
 - 🎙️ **Head of Research & Content at TEDxBITSGoa**, working on research, writing, and storytelling.
+
 - 📸 I enjoy **photography and capturing random moments**.
+
 - 🌱 Always curious, always learning, and trying to become a better **all-rounder**.
 
 ---
@@ -16,11 +21,12 @@
 <h2>My Github Stats:</h2>
 
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rudraksh-kumar&show_icons=true&theme=radium&hide_border=true" 
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=rudraksh-kumar&show_icons=true&theme=radium&hide_border=true"
     alt="Rudraksh's GitHub Stats"
   />
 </p>
 
 ---
 
+<h2>📌 Pinned</h2>
